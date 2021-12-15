@@ -32,11 +32,11 @@
 // --------------------------------------------------
 // Here we will define which currency conversions are supported, as well as the
 // rates between each currency. We will capture this information as an object
-// and store it in dedicated varaible for later use.
+// and store it in dedicated variable for later use.
 
 // We will use the official currency abbreviation for each currency (eg. USD, CAD, etc.).
 
-// The conversion rates do not have to be accurate, athough this resource contains
+// The conversion rates do not have to be accurate, although this resource contains
 // up-to-date rate information: https://www.xe.com/
 
 
